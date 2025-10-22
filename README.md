@@ -1,26 +1,14 @@
--------------------------------
-FLUX INTERNAL — CONFIDENTIAL
--------------------------------
-Document: INCIDENT-Flux-2025-09-RHINO
-Severity: POOP
-Classification: For internal shitiles
+------------
+FLUX - DOC
+-----------
+Andrew blocked me because i sent rhino poop to him so heres a Flux doc
 
-Summary:
-Subject: "Andrew" | Incident: Rhino Payload Delivery | Result: Blocked
+Flux backend IP: 127.0.0.1
+Flux Backend Port: 3551
 
-Node Information:
-  FLUX NODE: 127.0.0.1
-  PORT: 3551
+Andrews IP url: https://Localhost/
+Andrews Address: 1234 Unicorn Road
+Andrews Legal name: Andrew
 
-Timeline:
-  [19:00] Payload assembled: rhino_poop.zip
-  [19:02] Transmission queued
-  [19:03] Transmission completed (ACK)
-  [19:04] Remote user triggered BLOCK protocol
 
-Forensics:
-  - Payload signature: whimsical
-  - Impact: temporary social disconnect
-  - Recovery: memes and apology GIFs recommended
-
-Andrew if you see this please navmesh please
+### this was a crystal confirmed message
